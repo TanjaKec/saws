@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Contact us to discuss how you can empower women and gender minorities in DS & AI.
 
 content:
   # Automatically link email and phone or display as text?

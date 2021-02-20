@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Sister Analyst
+title: 
 subtitle:
 
 design:
   columns: "1"
   background:
     image: headers/bubbles-wide.jpg
-    image_darken: 0.6
+    image_darken: 0.4
     image_parallax: true
     image_position: center
     image_size: cover
@@ -28,10 +28,13 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<center><b><h3> Our mission is <br> to empower women and gender minority groups <br> through the practise and application of <br> DS and AI. </h3></b></center>
+<center><b><h3> <span style="color: #FFFAF0">SisterAnalyst
+</span></h3></b></center>
+
+<center><b><h4> <span style="color: #FFFAF0"> Our mission is <br> to empower women and gender minority groups <br> through the practise and application of <br> DS and AI. </span></h4></b></center>
 
 <br>
-<center> We equip our community members with <br> data skills, opportunities and a global platform <br> that facilitates networking and knowledge sharing. 
+<center><span style="color: #FFFAF0"> We equip our community members with <br> data skills, opportunities and a global platform <br> that facilitates networking and knowledge sharing.</span> 
 
 
 
