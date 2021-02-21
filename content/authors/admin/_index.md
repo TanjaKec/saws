@@ -1,5 +1,5 @@
 ---
-bio: Our courses are aimed at women and non binary people from any social background with the desire to enter the rapidly expanding world of data.
+bio: Our courses are aimed at women and gender minority groups from any social background with the desire to enter the rapidly expanding world of data.
 #  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
@@ -43,6 +43,8 @@ title:
 We are a not for profit social enterprise focussing on the objective of increasing the number of women and gender minority groups involved in the field of data science and artificial intelligence. We do it to help address the gender bias in tech industries and to enable minority gender (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) individuals to fulfil their potential regardless of their background.
 
 We support our community members at every stage of their careers to gain a familiarity with the essential concepts and use of data science and artificial intelligence. We collaborate with our partners to run the courses and networking events, providing opportunities for leaders in the field (mostly women) to share their knowledge and experiences via informative presentations, discussions and mentoring.
+
+Our education programmes are aimed at women and gender minority groups from any social background with the desire to enter the rapidly expanding world of data.
 
 What we do:
 - We run free DS/AI courses for women and gender minority groups

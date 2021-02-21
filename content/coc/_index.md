@@ -1,12 +1,9 @@
 ---
-date: "2018-09-09T00:00:00Z"
-draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: Code of Conduct
-menu:
-  example:
-    name: Code of Conduct
-    weight: 1
+header:
+  caption: ""
+  image: ""
+layout: docs
+title: Code of Conduct
 ---
  
 **Our Code of Conduct is based on the [R-Ladies Community Code of Conduct](https://rladies.org/code-of-conduct/).**

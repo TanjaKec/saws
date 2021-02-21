@@ -9,44 +9,24 @@
 #  weight = 10
 
 [[main]]
-  name = "Events"
-  url = "#event"
+  name = "Courses"
+  url = "courses/"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Join Us"
+  url = "join/"
   weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
-
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 60
-
-[[main]]
-  name = "Code of Conduct"
-  url = "coc/"
-  weight = 60
 
 [[main]]
   name = "Partners"
   url = "partners/"
-  weight = 60
+  weight = 30
+
+[[main]]
+  name = "Code of Conduct"
+  url = "coc/"
+  weight = 40
 
 [[main]]
   name = "Contact"

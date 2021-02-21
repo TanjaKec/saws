@@ -1,15 +1,11 @@
 ---
-date: "2018-09-09T00:00:00Z"
-draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: become a partner
-menu:
-  example:
-    name: become a partner
-    weight: 1
+header:
+  caption: ""
+  image: ""
+layout: docs
+title: Partners
 ---
-<br>
-<br>
+
 <br>
 <center><b><h3> <span style="color: #104E8B"> By supporting our organization, you contribute to building diversity and inclusion in data driven working environment ecosystem.</span></h3></b></center>
 
@@ -37,24 +33,24 @@ by offering space, fostering collaborations with data owners and industry, mento
 <body>
   <div class="w3-row">
     <div class="w3-col s4">
-      <img src="images/InfoStud.png" style="width:40%">
+      <img src="images/InfoStud.png" style="width:50%">
     </div>
     <div class="w3-col s4">
-      <img src="images/geolytix.png" style="width:40%">
+      <img src="images/geolytix.png" style="width:50%">
     </div>
     <div class="w3-col s4">
-      <img src="images/ThingsSolver.png" style="width:50%">
+      <img src="images/ThingsSolver.png" style="width:60%">
     </div>
   </div>
   <div class="w3-row-padding">
     <div class="w3-col s4">
-      <img src="images/uradi-zaradi.png" style="width:50%">
+      <img src="images/uradi-zaradi.png" style="width:60%">
     </div>
     <div class="w3-col s4">
-      <img src="images/UNDP.png" style="width:15%">
+      <img src="images/UNDP.png" style="width:20%">
     </div>
     <div class="w3-col s4">
-      <img src="images/oh.png" style="width:25%">
+      <img src="images/oh.png" style="width:35%">
     </div>
   </div>
 
