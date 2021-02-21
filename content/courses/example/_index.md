@@ -2,12 +2,12 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+linktitle: Courses
 menu:
   example:
-    name: Overview
+    name: 
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: by supporting our organization, you contribute to building diversity and inclusion in data driven working environment ecosystem. Companies participating in this program benefit by gaining access to a diverse talent pool and data science consulting services.
 title: Overview
 toc: true
 type: docs

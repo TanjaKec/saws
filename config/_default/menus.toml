@@ -39,6 +39,16 @@
   weight = 60
 
 [[main]]
+  name = "Code of Conduct"
+  url = "coc/"
+  weight = 60
+
+[[main]]
+  name = "Partners"
+  url = "partners/"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 70

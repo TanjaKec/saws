@@ -19,7 +19,7 @@ feature:
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: data 
+  name: data analytics
 - description: 
   icon: laptop-code
   icon_pack: fas
