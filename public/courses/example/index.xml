@@ -5,7 +5,7 @@
     <link>/courses/example/</link>
       <atom:link href="/courses/example/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/SA_hex.png</url>
       <title>Overview</title>
@@ -13,44 +13,165 @@
     </image>
     
     <item>
-      <title>Example Page 1</title>
+      <title>Overview</title>
       <link>/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0100</pubDate>
       <guid>/courses/example/example1/</guid>
-      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;fundamental-ds-and-ai-skills-data-skills-for-work&#34;&gt;Fundamental DS and AI skills: data skills for work&lt;/h2&gt;
+&lt;p&gt;Data Science (DS) and Artificial Intelligence (AI) are an essential part of a data-driven culture. The aim of this course is to provide a solid foundation for understanding data, in particular how to read, work with, analyse and communicate with data. They are skills that empower people from all walks of life at all levels of work. It is a set of skills that is also likely to improve digital literacy. As data is so crucial for organisational success, data literacy and associated meta-skills are intrinsically in demand for all employees.&lt;/p&gt;
+&lt;p&gt;Our course will develop your confidence and skills to drive and sustain data driven innovation whether you study, work or you acquire them for your everyday life. The course focuses on teaching individuals the practical and technical skills needed to analyse and solve intricate data problems.&lt;/p&gt;
+&lt;p&gt;During the course, you will be introduced to a wide variety of free and open source tools commonly used when working on a data project. You will apply these tools in many practical activities and case studies, solving problems that involve finding and evaluating information, performing calculations and data wrangling that will enable you to draw reasoned conclusions.&lt;/p&gt;
+&lt;p&gt;We will start from zero, with no prior knowledge required, and work our way up to advanced data analysis using &lt;a href=&#34;https://www.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, a public domain language for data analysis. The curriculum covers the relevant tools and technologies including Fundamental Coding and Basic Statistical Concepts through the use of &lt;a href=&#34;https://cran.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;. R amalgamates the learning of important and desirable data skills: code writing for statistical modelling, and visualisation and data reporting in a reproducible manner. You will learn how to use &lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;, a version control system, to track changes when working on a data project in a transparent and reproducible manner that fosters knowledge sharing and collaboration.&lt;/p&gt;
+&lt;p&gt;You will be guided by skilled instructors and will gain real-world experience by collaborating with your peers on real-life data projects provided by our partner companies and organisations. You will build a comprehensive portfolio throughout the learning experience, giving you the confidence needed to tap into related industries.&lt;/p&gt;
+&lt;p&gt;Our local and international partners will provide a unique opportunity for you to work on real-life projects that will help grow your skills, build your profile, and create a platform for your data literacy empowered career.&lt;/p&gt;
+&lt;p&gt;By the end of the course you will have the solid understanding needed to be able to further grow your data knowledge skills once the course is complete.&lt;/p&gt;
+&lt;h3 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn fundamental concepts of computer coding along with problem solving techniques and analytical thinking&lt;/li&gt;
+&lt;li&gt;Learn to analyse problem requirements to recognise what type of data and processes are involved in the solution&lt;/li&gt;
+&lt;li&gt;Learn to navigate the entire data science pipeline from data acquisition to publication: access, explore, visualise, and analyse data in a reproducible and shareable manner&lt;/li&gt;
+&lt;li&gt;Work on case studies inspired by real problems and based on real-world data&lt;/li&gt;
+&lt;li&gt;Become aware of, and recognise the huge potential for data science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-the-course-works-teaching-and-learning-strategy&#34;&gt;How the course works: Teaching and Learning Strategy&lt;/h3&gt;
+&lt;p&gt;The material is structured within a series of eight weekly specialised units that will help you master the skills.&lt;/p&gt;
+&lt;p&gt;Each unit is split into two hands-on taught lessons that will be delivered&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wednesdays, between 18:00 - 21:00 as an on-line session&lt;/li&gt;
+&lt;li&gt;Saturdays, between 10:00 - 14:00 as an on-site session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and it will require a minimum of 3 hours guided independent study time.&lt;/p&gt;
+&lt;p&gt;Each unit will be taught by our instructors and will cover various related topics through appropriate case studies, presentations, readings and discussion forums. The conceptual ideas come to life when practice becomes reality which is why the material is designed as hands-on taught lessons, through the application of R. The course provides the opportunity for participants to test their knowledge, both conceptual and practical by adopting an interactive student/teacher approach. Students are expected to use their own time to practise and hone the data handling expertise acquired during the sessions.
+To provide a structure in learning to communicate newly acquired concepts you will be paired with a fellow student. You will practise explaining new concepts and skills to one another, which will advance your learning and develop the essential collaboration skills you will need in a data driven work place environment.&lt;/p&gt;
+&lt;p&gt;Students are expected to participate fully in all of these delivery modes, but in particular are expected to have attempted any pre-set work, and come fully prepared to discuss any problems encountered and debate the ideas and any issues raised. We recommend you complete each of the following before the end of each week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Readings and hand-outs/exercises&lt;/li&gt;
+&lt;li&gt;Participation in the discussion forums&lt;/li&gt;
+&lt;li&gt;Quizzes covering concepts from tutorials and/or readings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To earn your certificate, you will need to successfully complete the final project.&lt;/p&gt;
+&lt;p&gt;Course material will be delivered in English and Serbian.&lt;/p&gt;
+&lt;h3 id=&#34;who-can-enrol&#34;&gt;Who can enrol&lt;/h3&gt;
+&lt;p&gt;This course is for people from varying backgrounds and diverse profiles with very little or no coding or data analytic experience. The course will benefit anyone who has the curiosity and desire to enter the realm of data science. We will make sense of the world of data and learn effective and attractive ways to visually analyse and communicate related information. With the knowledge gained on this course, you will be ready to undertake your very own data analysis for the first time.
+Data Science is not simply fashionable jargon, but rather a set of tools that empower data enriched
+living, so whatever industry you are in, this is relevant to you!&lt;/p&gt;
+&lt;h3 id=&#34;who-is-eligible-for-our-course&#34;&gt;Who is eligible for our course&lt;/h3&gt;
+&lt;p&gt;Women and gender minorities over 18 years of age with priority given to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single Parents on low income&lt;/li&gt;
+&lt;li&gt;Long-term unemployed&lt;/li&gt;
+&lt;li&gt;Anyone experiencing problems getting the education needed to find meaningful work, through discrimination or otherwise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;who-can-apply-for-our-course&#34;&gt;Who can apply for our course&lt;/h3&gt;
+&lt;p&gt;People who recognise the paramount importance of data and its use and are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Able to commit to the course for its duration&lt;/li&gt;
+&lt;li&gt;Able to commit to all required sessions and the time requirements specified&lt;/li&gt;
+&lt;li&gt;Willing to share knowledge and return as a mentor or coach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The course is delivered twice a year. Our next available cohort starts on 22 September 2021.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
+      <title>Indicative Syllabus</title>
       <link>/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0100</pubDate>
       <guid>/courses/example/example2/</guid>
-      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;Learning units build on previous units and they should be learnt in the order presented.&lt;/p&gt;
+&lt;h2 id=&#34;unit-1&#34;&gt;Unit 1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Core DS/AI Concepts and Tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This unit will cover the baseline knowledge you need before getting into the advanced coding aspects of DS/AI. We will discuss concepts and terminology related to data and data solutions. You will learn the fundamentals of computer science with “drag &amp;amp; drop blocks”. In order to become acquainted with basic computational concepts of problem-solving, logical thinking, cause and effect within the context of modelling, you will be introduced to prime programming operations, control structures, data types, etc. We will finish by configuring your working environment and installing some software necessary when working on your future data projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To describe forms, formats, and lifecycles of data and how these vary across disciplines&lt;/li&gt;
+&lt;li&gt;To represent programming logic in pseudocode and/or flowcharts&lt;/li&gt;
+&lt;li&gt;Basic concepts such as data type and index&lt;/li&gt;
+&lt;li&gt;To use Boolean expressions in if-then structures for making decisions&lt;/li&gt;
+&lt;li&gt;To use looping structures and how to end loops&lt;/li&gt;
+&lt;li&gt;To create your own customised functions&lt;/li&gt;
+&lt;li&gt;To install and run R/RStudio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-2&#34;&gt;Unit 2&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;R in RStudio: syntax and working environment&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this module you will set up the working environment and pass the first big hurdle of importing data; you will learn how to do it in the proper way with a command in R. You will learn how to use RStudio IDE for R from RStudio customisation to files navigation. You will learn good habits and practice of workflow in an R project. Once you get comfortable with the RStudio working environment, you will move on to mastering the key features of R language and its syntax.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic use of R/RStudio console&lt;/li&gt;
+&lt;li&gt;Good habits for workflow&lt;/li&gt;
+&lt;li&gt;Data structures, variables, and basic data collection techniques&lt;/li&gt;
+&lt;li&gt;Inputting and importing different data types&lt;/li&gt;
+&lt;li&gt;R environment: record keeping&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-3&#34;&gt;Unit 3&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git in GitHub: Basic Shell Script&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Version control has become an essential tool for keeping track when working on data projects, as well as collaborating. RStudio supports working with Git, an open source distributed version control system, which is easy to use when combined with GitHub, a web-based Git repository hosting service. In this unit you will expand your data working environment, install Git and connect to GitHub through RStudio. You will learn how to use git to track changes to your work over time, “branch” your project into a separate copy that can be developed further in isolation of the main code or merged back into the main trunk. You will discover why GitHub is useful for reproducible analysis and collaboration with others.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To explain the difference between Git and GitHub&lt;/li&gt;
+&lt;li&gt;Learn to communicate with others on GitHub&lt;/li&gt;
+&lt;li&gt;Create a new and clone an existing repository on GitHub&lt;/li&gt;
+&lt;li&gt;To use the shell commands to do basic version control with Git&lt;/li&gt;
+&lt;li&gt;To fork, branch and collaborate using GitHub&lt;/li&gt;
+&lt;li&gt;Good habits and practice of integrating Git and GitHub into your R project workflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-4&#34;&gt;Unit 4&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Basic Statistical Concepts: Data classification, summary statistics and DA Methodology&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now, as you become more comfortable with the RStudio working environment, you will move on to mastering the key features of R language through the introduction of the fundamental statistical concepts. In this module you will learn the fundamental concepts of statistical modelling, starting with exploring the data by using appropriate plots and computation of descriptive statistics, and moving on to inferential statistics of parameter estimation and hypothesis testing. You will learn the process of generating conclusions about a population from a noisy sample. Using statistical inference through the navigation of the set of assumptions and tools you will learn how to draw conclusions from data to generate new knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The concept of statistical distribution&lt;/li&gt;
+&lt;li&gt;How to explore and visualise different data types using &lt;code&gt;base&lt;/code&gt; R&lt;/li&gt;
+&lt;li&gt;How to adopt common data-analysis methodology when exploring relationships within data&lt;/li&gt;
+&lt;li&gt;The basics of inferential statistics by making valid generalizations from sample data&lt;/li&gt;
+&lt;li&gt;Basic tools for making statistical inference&lt;/li&gt;
+&lt;li&gt;Conduct explorative data analysis, interpret and report its outcomes in an appropriate manner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-5&#34;&gt;Unit 5&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Data Wrangling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this unit you will learn some of the fundamental techniques for data exploration and transformation through the use of the &lt;code&gt;dplyr&lt;/code&gt; package. This &lt;code&gt;tidyverse&lt;/code&gt; package helps make your exploration intuitive to write and easy to read. You will learn &lt;code&gt;dplyr&lt;/code&gt;’s key verbs for data manipulation that will help you uncover and shape the information within the data that is easy to turn into informative plots.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dplyr&lt;/code&gt;’s key data manipulation verbs: select, mutate, filter, arrange and summarise/summarize&lt;/li&gt;
+&lt;li&gt;To aggregate data by groups&lt;/li&gt;
+&lt;li&gt;To chain data manipulation operations using the pipe operator&lt;/li&gt;
+&lt;li&gt;Basic principles of effective data visualisation&lt;/li&gt;
+&lt;li&gt;To specify &lt;code&gt;ggplot2&lt;/code&gt; building blocks and combine them to create graphical display&lt;/li&gt;
+&lt;li&gt;About the philosophy that guides &lt;code&gt;ggplot2&lt;/code&gt;: grammatical elements (layers) and aesthetic mapping&lt;/li&gt;
+&lt;li&gt;Visualising data with maps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-6&#34;&gt;Unit 6&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Data Visualisation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this unit you will be introduced to the fundamental principles behind effective data visualisation. Through the use of the grammar of graphics plotting concepts implemented in the ggplot2 package, you will be able to create meaningful exploratory plots. You will develop understanding about the way in which you should be able to think about necessary data transformations and summaries that can lead to an informative visualisation. You will learn how to create static maps and interactive maps with geolocated data by using the most popular packages in the R GIS community: simple features and leaflet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic principles of effective data visualisation&lt;/li&gt;
+&lt;li&gt;To specify ggplot2 building blocks and combine them to create graphical display&lt;/li&gt;
+&lt;li&gt;About the philosophy that guides ggplot2: grammatical elements (layers) and aesthetic mapping&lt;/li&gt;
+&lt;li&gt;To visualise data with maps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-7&#34;&gt;Unit 7&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Reproducible Reporting&lt;/strong&gt;
+This unit will give you an appreciation of R programming as a tool for reproducible reporting.  Adopting and applying open and transparent approaches to your DS project is integral to genuinely rigorous analysis and adds to the material value of one’s work. In view of this, the presentation of the available code, data and algorithms should be available to scrutiny and possible connectivity to wider DS community. R Markdown and knitr make it easy to intermingle code and text to generate compelling reports and presentations that are never out of date.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Store in one place your data analysis methods, results and interpretation&lt;/li&gt;
+&lt;li&gt;Update your data analysis methodology and automate the update of the results&lt;/li&gt;
+&lt;li&gt;Write your DS report text and code in R Markdown&lt;/li&gt;
+&lt;li&gt;Generate reproducible DS reports that display your code and results&lt;/li&gt;
+&lt;li&gt;Assemble your DS reporting as either HTML, a PDF or a Word document using the package &lt;code&gt;rmarkdown&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unit-8&#34;&gt;Unit 8&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Case Study&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This unit provides much needed hands-on experience. You will work on a
+on a real-life data problem that involves a complete data analysis, from data import to communication of results, with emphasis on reproducibility and transparency. You will develop you project openly on GitHub and make contributions to your fellow student with who you will communicate via GitHub Issues and who will review it and accepted it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you will learn&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To integrate different aspects of DS knowledge and skills&lt;/li&gt;
+&lt;li&gt;To collaboration with others when working on a DS project&lt;/li&gt;
+&lt;li&gt;To gain exposure to open source development process&lt;/li&gt;
+&lt;li&gt;To build personal DS portfolios&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

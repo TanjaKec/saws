@@ -1,40 +1,87 @@
 ---
-date: "2019-05-05T00:00:00+01:00"
+date: "2021-06-09T00:00:00+01:00"
 draft: false
-linktitle: Tips 1-2
+linktitle: overview
 menu:
   example:
-    parent: Example Topic
+    parent: Overview
     weight: 1
-title: Example Page 1
+title: Overview
 toc: true
 type: docs
 weight: 1
 ---
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
 
-## Tip 1
+## Fundamental DS and AI skills: data skills for work
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Data Science (DS) and Artificial Intelligence (AI) are an essential part of a data-driven culture. The aim of this course is to provide a solid foundation for understanding data, in particular how to read, work with, analyse and communicate with data. They are skills that empower people from all walks of life at all levels of work. It is a set of skills that is also likely to improve digital literacy. As data is so crucial for organisational success, data literacy and associated meta-skills are intrinsically in demand for all employees. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Our course will develop your confidence and skills to drive and sustain data driven innovation whether you study, work or you acquire them for your everyday life. The course focuses on teaching individuals the practical and technical skills needed to analyse and solve intricate data problems.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+During the course, you will be introduced to a wide variety of free and open source tools commonly used when working on a data project. You will apply these tools in many practical activities and case studies, solving problems that involve finding and evaluating information, performing calculations and data wrangling that will enable you to draw reasoned conclusions.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+We will start from zero, with no prior knowledge required, and work our way up to advanced data analysis using [R](https://www.r-project.org), a public domain language for data analysis. The curriculum covers the relevant tools and technologies including Fundamental Coding and Basic Statistical Concepts through the use of [R](https://cran.r-project.org). R amalgamates the learning of important and desirable data skills: code writing for statistical modelling, and visualisation and data reporting in a reproducible manner. You will learn how to use [Git](https://git-scm.com), a version control system, to track changes when working on a data project in a transparent and reproducible manner that fosters knowledge sharing and collaboration.  
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+You will be guided by skilled instructors and will gain real-world experience by collaborating with your peers on real-life data projects provided by our partner companies and organisations. You will build a comprehensive portfolio throughout the learning experience, giving you the confidence needed to tap into related industries.
+
+Our local and international partners will provide a unique opportunity for you to work on real-life projects that will help grow your skills, build your profile, and create a platform for your data literacy empowered career.
+
+By the end of the course you will have the solid understanding needed to be able to further grow your data knowledge skills once the course is complete.
+
+### Course Objectives
+
+*	Learn fundamental concepts of computer coding along with problem solving techniques and analytical thinking
+*	Learn to analyse problem requirements to recognise what type of data and processes are involved in the solution
+*	Learn to navigate the entire data science pipeline from data acquisition to publication: access, explore, visualise, and analyse data in a reproducible and shareable manner
+*	Work on case studies inspired by real problems and based on real-world data
+*	Become aware of, and recognise the huge potential for data science
 
 
-## Tip 2
+### How the course works: Teaching and Learning Strategy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The material is structured within a series of eight weekly specialised units that will help you master the skills. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Each unit is split into two hands-on taught lessons that will be delivered 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+*	Wednesdays, between 18:00 - 21:00 as an on-line session
+*	Saturdays, between 10:00 - 14:00 as an on-site session
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+and it will require a minimum of 3 hours guided independent study time. 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+
+Each unit will be taught by our instructors and will cover various related topics through appropriate case studies, presentations, readings and discussion forums. The conceptual ideas come to life when practice becomes reality which is why the material is designed as hands-on taught lessons, through the application of R. The course provides the opportunity for participants to test their knowledge, both conceptual and practical by adopting an interactive student/teacher approach. Students are expected to use their own time to practise and hone the data handling expertise acquired during the sessions.
+To provide a structure in learning to communicate newly acquired concepts you will be paired with a fellow student. You will practise explaining new concepts and skills to one another, which will advance your learning and develop the essential collaboration skills you will need in a data driven work place environment.
+
+Students are expected to participate fully in all of these delivery modes, but in particular are expected to have attempted any pre-set work, and come fully prepared to discuss any problems encountered and debate the ideas and any issues raised. We recommend you complete each of the following before the end of each week:
+
+*	Readings and hand-outs/exercises
+*	Participation in the discussion forums
+*	Quizzes covering concepts from tutorials and/or readings
+
+To earn your certificate, you will need to successfully complete the final project.
+
+Course material will be delivered in English and Serbian.
+
+### Who can enrol
+
+This course is for people from varying backgrounds and diverse profiles with very little or no coding or data analytic experience. The course will benefit anyone who has the curiosity and desire to enter the realm of data science. We will make sense of the world of data and learn effective and attractive ways to visually analyse and communicate related information. With the knowledge gained on this course, you will be ready to undertake your very own data analysis for the first time.
+Data Science is not simply fashionable jargon, but rather a set of tools that empower data enriched 
+living, so whatever industry you are in, this is relevant to you!
+
+### Who is eligible for our course
+
+Women and gender minorities over 18 years of age with priority given to:
+
+*	Single Parents on low income
+*	Long-term unemployed
+*	Anyone experiencing problems getting the education needed to find meaningful work, through discrimination or otherwise
+
+### Who can apply for our course
+
+People who recognise the paramount importance of data and its use and are
++	Able to commit to the course for its duration
++	Able to commit to all required sessions and the time requirements specified
++	Willing to share knowledge and return as a mentor or coach
+
+**The course is delivered twice a year. Our next available cohort starts on 22 September 2021.**

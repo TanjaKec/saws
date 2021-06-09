@@ -7,14 +7,19 @@ title: Partners
 ---
 
 <br>
-<center><b><h3> <span style="color: #104E8B"> By supporting our organization, you contribute to building diversity and inclusion in data driven working environment ecosystem.</span></h3></b></center>
+<center><b><h3><span style="color: #104E8B"> By supporting our organization, you contribute to building diversity and inclusion in data driven working environment ecosystem.</span></h3></b></center>
 
-<center>We welcome and invite organisations and individuals to contribute in our quest 
-in seeking to address the bias and the gender disparity in data driven working environments
-by offering space, fostering collaborations with data owners and industry, mentoring, facilitating events, investments and more.</center> 
+We welcome and invite organisations and individuals to contribute in our quest in seeking to address the bias and the gender disparity in data driven working environments
+by offering space, fostering collaborations with data owners and industry, mentoring, facilitating events, investments and more. If you
+<ul>
+  <li> are seeking an innovative partner for a long-term program</li>
+  <li> have laptops, time or something else to donate</li>
+  <li> are thinking of hiring one of our qualifier</li> 
+</ul>
+then, get in touch to discuss how together we can empower women and gender minorities in DS and AI.</center> 
 <br>
-<center>Get in touch to discuss how together we can empower women and gender minorities in DS and AI.</center> 
 <br>
+
 <center>
 <a href="https://sisteranalyst.org/">
 <button class="button button2">Donate!</button>
@@ -24,7 +29,9 @@ by offering space, fostering collaborations with data owners and industry, mento
 <br>
 <center><b><h3> <span style="color: #104E8B"> We Need Your Support Today!</span></h3></b></center>
 
-
+<center><b><span style="color: #104E8B">Together, we can create meaningful employment opportunities for talented women and gender minorities.</span></b></center>
+<br>
+<br>
 <!DOCTYPE html>
 <html>
 <title>W3.CSS</title>
