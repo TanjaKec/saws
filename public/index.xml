@@ -19,7 +19,7 @@
       <guid>/courses/example/example1/</guid>
       <description>&lt;h2 id=&#34;fundamental-ds-and-ai-skills-data-skills-for-work&#34;&gt;Fundamental DS and AI skills: data skills for work&lt;/h2&gt;
 &lt;p&gt;Data Science (DS) and Artificial Intelligence (AI) are an essential part of a data-driven culture. The aim of this course is to provide a solid foundation for understanding data, in particular how to read, work with, analyse and communicate with data. They are skills that empower people from all walks of life at all levels of work. It is a set of skills that is also likely to improve digital literacy. As data is so crucial for organisational success, data literacy and associated meta-skills are intrinsically in demand for all employees.&lt;/p&gt;
-&lt;p&gt;Our course will develop your confidence and skills to drive and sustain data driven innovation whether you study, work or you acquire them for your everyday life. The course focuses on teaching individuals the practical and technical skills needed to analyse and solve intricate data problems.&lt;/p&gt;
+&lt;p&gt;By applying AI algorithms, we draw answers from data, which is why fundamental coding and data skills are necessary for developing strong conceptual understanding of the technologies behind AI. Our course will develop your confidence and skills to drive and sustain data driven innovation whether you study, work or you acquire them for your everyday life. The course focuses on teaching individuals the practical and technical skills needed to analyse and solve intricate data problems.&lt;/p&gt;
 &lt;p&gt;During the course, you will be introduced to a wide variety of free and open source tools commonly used when working on a data project. You will apply these tools in many practical activities and case studies, solving problems that involve finding and evaluating information, performing calculations and data wrangling that will enable you to draw reasoned conclusions.&lt;/p&gt;
 &lt;p&gt;We will start from zero, with no prior knowledge required, and work our way up to advanced data analysis using &lt;a href=&#34;https://www.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, a public domain language for data analysis. The curriculum covers the relevant tools and technologies including Fundamental Coding and Basic Statistical Concepts through the use of &lt;a href=&#34;https://cran.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;. R amalgamates the learning of important and desirable data skills: code writing for statistical modelling, and visualisation and data reporting in a reproducible manner. You will learn how to use &lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;, a version control system, to track changes when working on a data project in a transparent and reproducible manner that fosters knowledge sharing and collaboration.&lt;/p&gt;
 &lt;p&gt;You will be guided by skilled instructors and will gain real-world experience by collaborating with your peers on real-life data projects provided by our partner companies and organisations. You will build a comprehensive portfolio throughout the learning experience, giving you the confidence needed to tap into related industries.&lt;/p&gt;
@@ -135,6 +135,7 @@ living, so whatever industry you are in, this is relevant to you!&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;dplyr&lt;/code&gt;’s key data manipulation verbs: select, mutate, filter, arrange and summarise/summarize&lt;/li&gt;
 &lt;li&gt;To aggregate data by groups&lt;/li&gt;
 &lt;li&gt;To chain data manipulation operations using the pipe operator&lt;/li&gt;
+&lt;li&gt;To create summary statistics for a dataset&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;unit-6&#34;&gt;Unit 6&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Data Visualisation&lt;/strong&gt;&lt;/p&gt;
@@ -219,7 +220,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-876412935&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-584273961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -229,7 +230,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-876412935&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-584273961&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

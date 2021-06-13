@@ -86,6 +86,7 @@ In this unit you will learn some of the fundamental techniques for data explorat
 *	`dplyr`’s key data manipulation verbs: select, mutate, filter, arrange and summarise/summarize
 *	To aggregate data by groups
 *	To chain data manipulation operations using the pipe operator
+* To create summary statistics for a dataset
 
  
 ## Unit 6

@@ -38,7 +38,7 @@ design:
 
 <br>
 <center>
-<a href="https://sisteranalyst.org/">
+<a href="https://sisanalyst.netlify.app/donate">
 <button class="button button2">Donate!</button>
 </a>
 </center>  

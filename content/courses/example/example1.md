@@ -17,7 +17,7 @@ weight: 1
 
 Data Science (DS) and Artificial Intelligence (AI) are an essential part of a data-driven culture. The aim of this course is to provide a solid foundation for understanding data, in particular how to read, work with, analyse and communicate with data. They are skills that empower people from all walks of life at all levels of work. It is a set of skills that is also likely to improve digital literacy. As data is so crucial for organisational success, data literacy and associated meta-skills are intrinsically in demand for all employees. 
 
-Our course will develop your confidence and skills to drive and sustain data driven innovation whether you study, work or you acquire them for your everyday life. The course focuses on teaching individuals the practical and technical skills needed to analyse and solve intricate data problems.
+By applying AI algorithms, we draw answers from data, which is why fundamental coding and data skills are necessary for developing strong conceptual understanding of the technologies behind AI. Our course will develop your confidence and skills to drive and sustain data driven innovation whether you study, work or you acquire them for your everyday life. The course focuses on teaching individuals the practical and technical skills needed to analyse and solve intricate data problems.
 
 During the course, you will be introduced to a wide variety of free and open source tools commonly used when working on a data project. You will apply these tools in many practical activities and case studies, solving problems that involve finding and evaluating information, performing calculations and data wrangling that will enable you to draw reasoned conclusions.
 

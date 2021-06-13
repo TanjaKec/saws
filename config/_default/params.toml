@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Sister Analyst"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Sister Analyst is a not for profit social enterprise focussing on the objective of increasing the number of women involved in the field of data science."
+description = "Sister Analyst is a not for profit social enterprise focussing on the objective of increasing the number of women involved in the field of DS and AI."
 
 ############################
 ## Site Features

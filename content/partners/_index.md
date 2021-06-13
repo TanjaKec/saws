@@ -21,15 +21,14 @@ then, get in touch to discuss how together we can empower women and gender minor
 <br>
 
 <center>
-<a href="https://sisteranalyst.org/">
+<a href="https://sisanalyst.netlify.app/donate">
 <button class="button button2">Donate!</button>
 </a>
-</center>  
+</center> 
 
 <br>
 <center><b><h3> <span style="color: #104E8B"> We Need Your Support Today!</span></h3></b></center>
 
-<center><b><span style="color: #104E8B">Together, we can create meaningful employment opportunities for talented women and gender minorities.</span></b></center>
 <br>
 <br>
 <!DOCTYPE html>
