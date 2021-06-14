@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open data | SisterAnalyst</title>
+    <link>/category/open-data/</link>
+      <atom:link href="/category/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>open data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 17:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/SA_hex.png</url>
+      <title>open data</title>
+      <link>/category/open-data/</link>
+    </image>
+    
+    <item>
+      <title>Open Data Challenge Workshop</title>
+      <link>/talk/open-data-challenge-workshop/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/open-data-challenge-workshop/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;The workshop/event focussed on illustrating the process of the democratisation of open data. In the belief that we should use a topical subject for analysis, we looked at data related to air pollution in Belgrade (sourced from &lt;a href=&#34;https://vazduhgradjanima.rs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vazduh Gradjanima&lt;/a&gt;) – a hot talking point within the city.&lt;/p&gt;
+&lt;p&gt;To learn about this event please visit the website: &lt;a href=&#34;https://ohsa.netlify.app&#34;&gt;https://ohsa.netlify.app&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Check the &lt;a href=&#34;https://tanjakec.github.io/OH_workshop/OHSA.html&#34;&gt;&lt;strong&gt;the report&lt;/strong&gt;&lt;/a&gt; we had produced during our workshop.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h5 id=&#34;-click-here-to-become-a-sponsor-and-help-support-sisteranalysts-future-httpssisanalystnetlifyappdonate&#34;&gt;&lt;a href=&#34;https://sisanalyst.netlify.app/donate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support SisterAnalyst&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h5&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

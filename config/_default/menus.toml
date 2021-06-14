@@ -27,6 +27,7 @@
   name = "Code of Conduct"
   url = "coc/"
   weight = 40
+  
 
 [[main]]
   name = "Contact"
