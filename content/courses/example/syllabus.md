@@ -9,6 +9,7 @@ menu:
 title: Indicative Syllabus
 toc: true
 type: docs
+noComment: true
 weight: 2
 ---
 
